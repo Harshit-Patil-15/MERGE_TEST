@@ -24,7 +24,7 @@ initSocket(server);
 // Start server
 const PORT = config.port;
 const serverListener = server.listen(PORT, () => {
-  console.log(`[Server] running in [${config.env}] mode on port [${PORT}] with new HTTP server wrapper harshit dev`);
+  console.log(`[Server] running in [${config.env}] mode on port [${PORT}] with new HTTP server wrapper jacob dev`);
 });
 
 // Setup unhandled promise rejection handling
